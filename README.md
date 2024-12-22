@@ -1,229 +1,193 @@
-### Who  
- **What do we know?**
- - Who are the primary individuals/groups involved?
- - Who discovered or reported the situation?
- - Who has been affected directly or indirectly?
- - Who has authority or jurisdiction?
- - Who are the witnesses?
+# Investigation Framework: The 5W1H Method
 
- <br>
- 
- **What does the information mean?**
- - What are their motivations and potential biases?
- - What relationships exist between involved parties?
- - What is each person's credibility and reliability?
- - What patterns emerge in witness accounts?
- - What conflicts of interest might exist?
+## Who
 
-- **What do I still need to know?**
- - Who else might have relevant information?
- - Who hasn't been interviewed yet?
- - Who could be protecting others?
- - Who stands to gain or lose?
- - Who might be withholding information?
+### What do we know?
+* Who are the primary individuals involved?
+* Who reported or witnessed the situation?
+* Who has been affected?
+* Who has relevant authority or influence?
+* Who else was present?
 
- <br>
- 
-- **How do I find out?**
- - Cross-reference personnel records
- - Conduct background checks
- - Interview associates and colleagues
- - Review communication records
- - Check social media presence
- - Map relationship networks
- - Verify alibis and timelines
+### What does the information mean?
+* What are their personal motivations?
+* What relationships exist between people?
+* What is each person's background and history?
+* What patterns emerge in behavior?
+* What personal conflicts might exist?
 
- <br>
- 
-### What  
- **What do we know?**
- - What exactly occurred or is occurring?
- - What evidence exists?
- - What actions were taken?
- - What protocols were followed/broken?
- - What damage or impact resulted?
- 
- <br>
- 
- **What does the information mean?**
- - What patterns suggest premeditation?
- - What circumstances enabled this?
- - What similar incidents have occurred?
- - What systems failed?
- - What consequences are emerging?
-  
- <br>
- 
-- **What do I still need to know?**
- - What evidence might be missing?
- - What alternative explanations exist?
- - What precedents are relevant?
- - What could have prevented this?
- - What might happen next?
-  
- <br>
- 
-- **How do I find out?**
- - Document physical evidence
- - Analyze digital footprints
- - Review surveillance footage
- - Conduct forensic analysis
- - Compare incident reports
- - Model scenarios
- - Consult subject matter experts
+### What do I still need to know?
+* Who else might have knowledge?
+* Who hasn't provided their account?
+* Who might be protecting someone?
+* Who benefits from the situation?
+* Who might be concealing information?
 
- <br>
- 
-### When  
- **What do we know?**
- - When was it discovered?
- - When did it begin/end?
- - When were actions taken?
- - When were reports filed?
- - When did patterns emerge?
- 
- <br>
- 
- **What does the information mean?**
- - What is the significance of timing?
- - What opportunities existed?
- - What scheduling factors matter?
- - What deadlines influenced actions?
- - What temporal patterns exist?
-  
- <br>
- 
-- **What do I still need to know?**
- - When might evidence have been altered?
- - When were systems vulnerable?
- - When did warning signs appear?
- - When were procedures changed?
- - When might it recur?
-  
- <br>
- 
-- **How do I find out?**
- - Create detailed timelines
- - Review access logs
- - Check surveillance records
- - Analyze digital timestamps
- - Compare witness accounts
- - Examine scheduling data
- - Track system changes
+### How do I find out?
+* Review personal history
+* Contact references
+* Interview family and associates
+* Check employment records
+* Review social connections
+* Map personal relationships
+* Verify personal accounts
 
- <br>
- 
-### Where  
- **What do we know?**
- - Where did it occur?
- - Where was evidence found?
- - Where are affected assets?
- - Where were people located?
- - Where are vulnerabilities?
- 
- <br>
- 
- **What does the information mean?**
- - What makes locations significant?
- - What access points existed?
- - What security measures failed?
- - What geographic patterns emerge?
- - What environmental factors matter?
+## What
 
- <br>
- 
-- **What do I still need to know?**
- - Where else to look for evidence?
- - Where might threats originate?
- - Where are blind spots?
- - Where could it happen again?
- - Where are safe havens?
-  
- <br>
- 
-- **How do I find out?**
- - Map incident locations
- - Conduct site surveys
- - Review floor plans
- - Check access records
- - Analyze traffic patterns
- - Assess environmental data
- - Test physical security
+### What do we know?
+* What exactly happened?
+* What physical evidence exists?
+* What actions did people take?
+* What rules were broken?
+* What harm was caused?
 
- <br>
- 
-### Why  
- **What do we know?**
- - Why did it happen?
- - Why wasn't it prevented?
- - Why were actions taken?
- - Why did systems fail?
- - Why wasn't it detected sooner?
- 
- <br>
- 
- **What does the information mean?**
- - What motivations existed?
- - What systemic issues contributed?
- - What cultural factors matter?
- - What pressures influenced actions?
- - What opportunities were exploited?
-  
- <br>
- 
-- **What do I still need to know?**
- - Why were warnings ignored?
- - Why did safeguards fail?
- - Why weren't procedures followed?
- - Why did people act/not act?
- - Why might it repeat?
-  
- <br>
- 
-- **How do I find out?**
- - Analyze root causes
- - Study behavioral patterns
- - Review risk assessments
- - Examine cultural factors
- - Interview decision makers
- - Model system dynamics
- - Evaluate incentives
+### What does the information mean?
+* What suggests planning?
+* What circumstances led to this?
+* What similar incidents happened before?
+* What relationships were damaged?
+* What consequences are people facing?
 
- <br>
- 
-### How  
- **What do we know?**
- - How did it occur?
- - How was it discovered?
- - How did systems respond?
- - How was it reported?
- - How did it escalate?
- 
- <br>
- 
- **What does the information mean?**
- - How were controls bypassed?
- - How did methods evolve?
- - How were resources used?
- - How effective were responses?
- - How did communication flow?
-  
- <br>
- 
-- **What do I still need to know?**
- - How to prevent recurrence?
- - How were tools misused?
- - How did planning occur?
- - How to improve detection?
- - How to strengthen systems?
-  
- <br>
- 
-- **How do I find out?**
- - Reconstruct sequences
- - Test system responses
- - Review procedures
- - Analyze communication
- - Evaluate controls
- - Simulate scenarios
- - Assess capabilities
+### What do I still need to know?
+* What details are missing?
+* What other explanations are possible?
+* What similar cases exist?
+* What could have prevented this?
+* What might happen to those involved?
+
+### How do I find out?
+* Gather physical evidence
+* Interview witnesses
+* Review documentation
+* Check public records
+* Compare testimonies
+* Consult experts
+* Review precedents
+
+## When
+
+### What do we know?
+* When was it first noticed?
+* When did events unfold?
+* When did people take action?
+* When were authorities notified?
+* When did behavior change?
+
+### What does the information mean?
+* Why is the timing important?
+* What opportunities existed?
+* What personal schedules matter?
+* What deadlines affected behavior?
+* What patterns of timing exist?
+
+### What do I still need to know?
+* When might stories have changed?
+* When did relationships shift?
+* When did warning signs appear?
+* When did behaviors change?
+* When might similar situations occur?
+
+### How do I find out?
+* Create event timelines
+* Review calendars
+* Check alibis
+* Compare accounts
+* Document routines
+* Track movements
+* Verify schedules
+
+## Where
+
+### What do we know?
+* Where did events occur?
+* Where was evidence found?
+* Where were people located?
+* Where did meetings happen?
+* Where are witnesses now?
+
+### What does the information mean?
+* Why choose these locations?
+* What access did people have?
+* What privacy existed?
+* What location patterns emerge?
+* What environmental factors matter?
+
+### What do I still need to know?
+* Where else to look for evidence?
+* Where do people frequent?
+* Where are safe spaces?
+* Where might it happen again?
+* Where do people hide?
+
+### How do I find out?
+* Visit key locations
+* Interview neighbors
+* Review travel records
+* Check residence history
+* Analyze movement patterns
+* Document meeting places
+* Map frequent locations
+
+## Why
+
+### What do we know?
+* Why did people act this way?
+* Why wasn't it prevented?
+* Why did relationships change?
+* Why did trust break down?
+* Why wasn't it reported sooner?
+
+### What does the information mean?
+* What personal motivations existed?
+* What relationship issues contributed?
+* What cultural factors matter?
+* What pressures influenced people?
+* What opportunities were taken?
+
+### What do I still need to know?
+* Why were warnings ignored?
+* Why did trust break down?
+* Why weren't rules followed?
+* Why did people stay silent?
+* Why might it happen again?
+
+### How do I find out?
+* Study motivations
+* Examine relationships
+* Review personal history
+* Analyze social dynamics
+* Interview associates
+* Understand culture
+* Evaluate pressures
+
+## How
+
+### What do we know?
+* How did people act?
+* How was it discovered?
+* How did relationships change?
+* How was it reported?
+* How did it escalate?
+
+### What does the information mean?
+* How were rules broken?
+* How did behaviors change?
+* How were resources used?
+* How effective were interventions?
+* How did communication break down?
+
+### What do I still need to know?
+* How to prevent future incidents?
+* How were relationships affected?
+* How was trust broken?
+* How to identify warning signs?
+* How to protect people?
+
+### How do I find out?
+* Document sequences
+* Interview witnesses
+* Review communications
+* Analyze relationships
+* Evaluate behaviors
+* Study patterns
+* Assess impacts 
