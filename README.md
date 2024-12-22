@@ -1,5 +1,7 @@
 # Investigation Framework: The 5W1H Method
 
+![image](https://github.com/user-attachments/assets/56827536-0227-49c3-bf3e-3cafcd8e4115)
+
 ## Who
 
 ### What do we know?
@@ -31,6 +33,8 @@
 * Review social connections
 * Map personal relationships
 * Verify personal accounts
+
+<br>
 
 ## What
 
@@ -64,6 +68,8 @@
 * Consult experts
 * Review precedents
 
+<br>
+
 ## When
 
 ### What do we know?
@@ -95,6 +101,8 @@
 * Document routines
 * Track movements
 * Verify schedules
+
+<br>
 
 ## Where
 
@@ -128,6 +136,8 @@
 * Document meeting places
 * Map frequent locations
 
+<br>
+
 ## Why
 
 ### What do we know?
@@ -159,6 +169,8 @@
 * Interview associates
 * Understand culture
 * Evaluate pressures
+
+<br>
 
 ## How
 
